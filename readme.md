@@ -8,6 +8,7 @@ Implemented with Haskell
 2. GHCup (https://www.haskell.org/get-started/)
 ## Compile code
 > ghc --make test
+> 
 > ./test
 
 # Contribution
